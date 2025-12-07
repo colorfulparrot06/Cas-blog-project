@@ -1,0 +1,31 @@
+.footer {
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+    background: #eee;
+    }
+
+/* FOOTER */
+footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: #666;
+    font-family: "Arapey", serif;
+}
+  
+  footer p {
+    margin: 0.3rem 0;
+  }
+  
+  .social-icons a {
+    margin: 0 0.5rem;
+    font-size: 1.2rem;
+    color: #222;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    text-decoration: underline;
+  }
+  

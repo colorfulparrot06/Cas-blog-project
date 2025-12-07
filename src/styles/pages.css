@@ -1,0 +1,38 @@
+/* PAGE WRAPPER */
+/*
+.story-container {
+     /* space for navbar 
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  
+  .story-title {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    color: #222;
+  }
+  
+  */
+
+  .story-container {
+    
+    padding: 2rem;
+  }
+
+  .story-title {
+    font-size: 2.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #222;
+  }
+
+.story-paragraph {
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    font-family: "Arapey", serif;
+    color: #222;
+    line-height: 1.6;
+  }
